@@ -1,3 +1,6 @@
+This is an AI powered tool designed to create test cases based on user stories and project context provided to it. 
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
